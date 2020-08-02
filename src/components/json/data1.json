@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "todo":"Hair Appointment",
+        "forAnyspecific":"with Dr Shobita Anand",
+        "timing":"Today, 3:30 PM"
+    },
+    {
+        "id":2,
+        "todo":"Eat Tablet- Bromide",
+        "forAnyspecific":"Follow up on your regine",
+        "timing":"Today, After lunch"
+    },
+    {
+        "id":3,
+        "todo":"Wash Hair",
+        "forAnyspecific":"use your shampoo",
+        "timing":"Today, Morning Bath"
+    },
+    {
+        "id":4,
+        "todo":"Moisturize",
+        "forAnyspecific":"Use your moisturize",
+        "timing":"Before Bedtime, 28th june"
+    }
+]
+

@@ -1,0 +1,20 @@
+[
+    {
+         "id":1,
+         "image":"https://static2.tripoto.com/media/filter/tst/img/388225/TripDocument/1515648021_ridge.jpg",
+         "image1":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS3634HRvhKB43aCjMdhdY33ixuKD6yg7-eIQ&usqp=CAU",
+         "text":"Shimla"
+    },
+    {
+        "id":2,
+        "image":"https://www.swantour.com/blogs/wp-content/uploads/2019/04/Places-to-Visit-in-Shimla-in-2-Days.jpg",
+        "image1":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS3634HRvhKB43aCjMdhdY33ixuKD6yg7-eIQ&usqp=CAU",
+        "text":"Snow"
+    },
+    {
+        "id":3,
+         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS5JcpIdrpWPQWKxGWxnuuXWlTfxidD57zrzw&usqp=CAU",
+         "image1":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS3634HRvhKB43aCjMdhdY33ixuKD6yg7-eIQ&usqp=CAU",
+         "text":"Horse Riding"
+    }
+]
